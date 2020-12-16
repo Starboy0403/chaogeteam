@@ -4,7 +4,7 @@ public class suyangli_3 {
 	private int ID;
 	public int getid() {
 		
-		return ID;
+		return ID +100;
 	}
 	
 	public void setID(int ID) {
