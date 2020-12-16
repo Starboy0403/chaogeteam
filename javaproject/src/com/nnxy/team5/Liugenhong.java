@@ -2,7 +2,7 @@ package com.nnxy.team5;
 
 public class Liugenhong {
 
-	private int id;//didi
+	private int id;
 	
 	
 	public int getid()
