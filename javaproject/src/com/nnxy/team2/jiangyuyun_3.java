@@ -5,7 +5,7 @@ public class jiangyuyun_3 {
 		private String name;
 		
 		public String getname(){
-			return name+200;
+			return name+20;
 		}
 		
 		public void  setName(String id){
