@@ -4,7 +4,7 @@ public class luyingying_3 {
 	
 	private int name;
 	public int getName(){
-		return name+100;
+		return name+10;
 		
 	}
 	
